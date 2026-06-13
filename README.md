@@ -27,7 +27,7 @@
 
 🎯 Goal: Become a full-stack developer and contribute to open source
 
-📫 Reach me at: anjalibharti@example.com
+📫 Reach me at: anjalibhartijsr2004@gmail.com
 
 </td>
 
