@@ -1,61 +1,68 @@
+
 <div align="center">
 
 # ✨ Anjali Bharti
 
-### Software Developer • Tech Enthusiast • Lifelong Learner
+### SOFTWARE DEVELOPER
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Software+Developer;Problem+Solver;Building+Innovative+Solutions;Always+Learning+New+Things" alt="Typing SVG" />
+**Problem Solver • Tech Enthusiast • Lifelong Learner**
 
-<img src="https://komarev.com/ghpvc/?username=anjalibharti&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+### ✨ Turning ideas into reality through code 💻 ✨
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-```yaml
-Name: Anjali Bharti
-Role: Software Developer
-Location: India 🇮🇳
-Interests:
-  - Web Development
-  - Problem Solving
-  - Open Source
-  - UI/UX Design
-  - Emerging Technologies
+<table>
+<tr>
+<td width="60%">
 
-Currently Learning:
-  - Full Stack Development
-  - Cloud Technologies
-  - Modern JavaScript Frameworks
+🎓 Passionate Software Developer from India
 
-Goal:
-  - Build impactful applications
-  - Contribute to Open Source
-  - Grow as a Software Engineer
-```
+💡 Love to solve problems and build impactful solutions
+
+🌱 Currently exploring new technologies and frameworks
+
+🎯 Goal: Become a full-stack developer and contribute to open source
+
+📫 Reach me at: anjalibharti@example.com
+
+</td>
+
+<td width="40%">
+
+> ### 💜 Favorite Quote
+>
+> *"Code is like humor. When you have to explain it, it's bad."*
+>
+> — Cory House
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,firebase" />
 </p>
 
 ### Database
@@ -67,79 +74,98 @@ Goal:
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<td width="33%">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🌐 Personal Portfolio
 
-</div>
+Responsive portfolio website to showcase projects, skills and achievements.
 
----
+**Tech Used**
 
-## 🔥 Contribution Streak
+`HTML` `CSS` `JavaScript`
 
-<div align="center">
+[🔗 View Repository](#)
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</td>
 
-</div>
+<td width="33%">
 
----
+### 📊 Dashboard App
 
-## 🚀 Featured Projects
+Analytics dashboard with charts and real-time data visualization.
 
-### 🌟 Smart Traffic Monitoring Dashboard
+**Tech Used**
 
-Real-time traffic monitoring dashboard with live analytics, congestion alerts, and interactive visualizations.
+`React` `Node.js` `MongoDB`
 
-### 🌟 Portfolio Website
+[🔗 View Repository](#)
 
-Responsive personal portfolio showcasing projects, skills, and achievements.
+</td>
 
-### 🌟 Management System
+<td width="33%">
 
-Full-stack application featuring authentication, CRUD operations, and role-based access control.
+### 🛒 E-Commerce Website
 
----
+Full-stack e-commerce web application with cart and payment integration.
 
-## 🌱 Currently Exploring
+**Tech Used**
 
-* Artificial Intelligence & Machine Learning
-* Cloud Computing
-* Full Stack Development
-* Open Source Contributions
+`React` `Node.js` `MongoDB`
 
----
+[🔗 View Repository](#)
 
-## 🏆 Achievements
+</td>
 
-* 🌟 Consistent Learner
-* 💡 Problem Solver
-* 🚀 Passionate Developer
-* 🤝 Team Collaborator
+</tr>
+</table>
 
 ---
 
-## 🤝 Connect With Me
+# 🌱 Currently Learning
+
+- Advanced JavaScript & React
+- Cloud Computing
+- Data Structures & Algorithms
+- System Design Basics
+
+---
+
+# 🏆 Achievements
+
+⭐ Consistent Learner
+
+💪 Problem Solver
+
+🤝 Team Player
+
+🎯 Dedicated & Curious
+
+🚀 Always Improving
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/your-linkedin">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:your-email@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/yourusername">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -148,8 +174,8 @@ Full-stack application featuring authentication, CRUD operations, and role-based
 
 <div align="center">
 
-### ✨ "Turning ideas into reality through code."
+### Thanks for visiting! ⭐
 
-⭐ If you like my work, consider giving a star to my repositories!
+Don't forget to follow and star repositories you like.
 
 </div>
