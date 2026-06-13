@@ -161,11 +161,11 @@ Full-stack e-commerce web application with cart and payment integration.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:anjalibhartijsr2004@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/anj1064">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
