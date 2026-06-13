@@ -15,10 +15,6 @@
 
 # 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
-
 🎓 Passionate Software Developer from India
 
 💡 Love to solve problems and build impactful solutions
@@ -27,21 +23,15 @@
 
 🎯 Goal: Become a full-stack developer and contribute to open source
 
-📫 Reach me at: anjalibhartijsr2004@gmail.com
+📫 Reach me at: **anjalibhartijsr2004@gmail.com**
 
-</td>
+---
 
-<td width="40%">
+## 💜 Favorite Quote
 
-> ### 💜 Favorite Quote
->
 > *"Code is like humor. When you have to explain it, it's bad."*
 >
 > — Cory House
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -49,31 +39,31 @@
 
 ### Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp" />
 </p>
 
 ### Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,angular,tailwind" />
 </p>
 
 ### Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,firebase" />
 </p>
 
 ### Database
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 </p>
 
 ### Tools & Platforms
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
@@ -81,26 +71,19 @@
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
+## 🌐 Personal Portfolio
 
-<td width="33%">
-
-### 🌐 Personal Portfolio
-
-Responsive portfolio website to showcase projects, skills and achievements.
+Responsive portfolio website to showcase projects, skills, and achievements.
 
 **Tech Used**
 
 `HTML` `CSS` `JavaScript`
 
-[🔗 View Repository](#)
+🔗 Repository Link
 
-</td>
+---
 
-<td width="33%">
-
-### 📊 Dashboard App
+## 📊 Dashboard App
 
 Analytics dashboard with charts and real-time data visualization.
 
@@ -108,26 +91,19 @@ Analytics dashboard with charts and real-time data visualization.
 
 `React` `Node.js` `MongoDB`
 
-[🔗 View Repository](#)
+🔗 Repository Link
 
-</td>
+---
 
-<td width="33%">
+## 🛒 E-Commerce Website
 
-### 🛒 E-Commerce Website
-
-Full-stack e-commerce web application with cart and payment integration.
+Full-stack e-commerce application with cart and payment integration.
 
 **Tech Used**
 
 `React` `Node.js` `MongoDB`
 
-[🔗 View Repository](#)
-
-</td>
-
-</tr>
-</table>
+🔗 Repository Link
 
 ---
 
@@ -157,6 +133,7 @@ Full-stack e-commerce web application with cart and payment integration.
 # 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/anjali-bharti-06ba69291/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -168,14 +145,16 @@ Full-stack e-commerce web application with cart and payment integration.
 <a href="https://github.com/anj1064">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! ⭐
+### ⭐ Thanks for visiting!
 
 Don't forget to follow and star repositories you like.
 
 </div>
+
