@@ -157,7 +157,7 @@ Full-stack e-commerce web application with cart and payment integration.
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/anjali-bharti-06ba69291/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
